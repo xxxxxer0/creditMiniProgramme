@@ -1,0 +1,13 @@
+.menu-cont {
+    width: 690rpx;
+    margin: 20rpx auto 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .item {
+        width: 325rpx;
+        height: 125rpx;
+        box-shadow: 0 0 15rpx 1rpx #c1c5c9;
+        margin-bottom: 30rpx;
+    }
+}
